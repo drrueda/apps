@@ -54,6 +54,4 @@ pyd = pdk.Deck(map_style="mapbox://styles/mapbox/light-v9",
                         extruded=True,
                     ),
                 ])
-
-
 st.pydeck_chart(pyd)
