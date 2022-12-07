@@ -7,6 +7,7 @@ import datetime
 import seaborn as sns
 
 st.title("Vehicle collisions")
+st.sidebar.header("Collision Range")
 
 # Leer dataframe
 df = pd.read_csv('NYC.csv')
