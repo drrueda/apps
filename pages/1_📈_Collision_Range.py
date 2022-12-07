@@ -73,6 +73,5 @@ if df_acc.shape[0]>0:
 
     st.pyplot(fig)
 
-#st.title(f'Percentage of accidents in district {selected_dist} on dates {str(date_ini.year)} - {str(date_end)}')
-#st.bar_chart(df_)
+st.button("Re-run")
 
