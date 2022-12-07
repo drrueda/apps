@@ -8,7 +8,7 @@ import seaborn as sns
 
 #st.title("Vehicle collisions")
 st.markdown("# Collision Range")
-st.sidebar.header("Collision Range")
+#st.sidebar.header("Collision Range")
 
 # Leer dataframe
 df = pd.read_csv('NYC.csv')
