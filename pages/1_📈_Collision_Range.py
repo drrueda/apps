@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import datetime
 import seaborn as sns
 
-st.title("Vehicle collisions")
+#st.title("Vehicle collisions")
 st.markdown("# Collision Range")
 st.sidebar.header("Collision Range")
 
